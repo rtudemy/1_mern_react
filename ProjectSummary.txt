@@ -1,0 +1,35 @@
+first time from git
+install npm 
+run npm start
+
+before run react run node for api call on two cmd 
+
+//port no equal on node and react
+REACT_APP_API_URL = http://localhost:8000/api/
+DATABASE=mongodb+srv://admin:admin@cluster0.acn0y.mongodb.net/nodeecomdb;
+PORT= 8004
+
+
+user@gmail.com
+user123
+
+
+admin@gmail.com
+admin123
+http://localhost:3000/admin/dashboard
+
+
+//create react app
+npx create-react-app appname
+npm start
+
+//delete unnecessory file like logo, css, 
+
+//routing pages
+Routes.js
+npm i react-router-dom
+
+
+
+
+
